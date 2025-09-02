@@ -23,18 +23,16 @@ The dashboard leverages **Microsoft Power BI** to deliver actionable insights fo
 
 ---
 
-
-
 ## 📥 Data Sources
 - [customers.csv](https://github.com/MicrosoftLearning/DP-900T00A-Azure-DataFundamentals/raw/master/power-bi/customers.csv)  
 - [products.csv](https://github.com/MicrosoftLearning/DP-900T00A-Azure-DataFundamentals/raw/master/power-bi/products.csv)  
 - [orders.csv](https://github.com/MicrosoftLearning/DP-900T00A-Azure-DataFundamentals/raw/master/power-bi/orders.csv)  
 
 _All datasets are publicly available for educational purposes._
+
 ---
 
-## Review the Documentation:
+## 📄 Documentation
+Refer to **`BAN_SA_PIYUSH.pdf`** for a step-by-step walkthrough, screenshots, and detailed insights into the project setup, data modeling, and report creation.
 
-###Refer to Documnetation for step-by-step walkthrough, screenshots, and insights.
 ---
-
