@@ -30,9 +30,24 @@ The dashboard leverages **Microsoft Power BI** to deliver actionable insights fo
 
 _All datasets are publicly available for educational purposes._
 
+
+## 🗂 Project Files
+- [📄 BAN_SA_PIYUSH.pdf](https://github.com/piyushpachare-work/Sales_Analytics_PowerBI/blob/main/BAN_SA_PIYUSH.pdf) – Full project report with step-by-step walkthrough.  
+- [📊 SA.pbix](https://github.com/piyushpachare-work/Sales_Analytics_PowerBI/blob/main/SA.pbix) – Power BI dashboard file.  
+
 ---
 
-## 📄 Documentation
-Refer to **`BAN_SA_PIYUSH.pdf`** for a step-by-step walkthrough, screenshots, and detailed insights into the project setup, data modeling, and report creation.
+## 🖼 Screenshots
+
+
+
+<p align="center">
+  <img src="https://github.com/piyushpachare-work/Sales_Analytics_PowerBI/blob/main/Screenshot%202025-09-01%20123145.png" alt="Dashboard Screenshot 4" width="300" />&nbsp;
+  <img src="https://github.com/piyushpachare-work/Sales_Analytics_PowerBI/blob/main/Screenshot%202025-09-01%20141005.png" alt="Dashboard Screenshot 5" width="300" />&nbsp;
+  
+</p>
 
 ---
+
+
+
